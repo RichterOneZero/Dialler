@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Gate
+    uniqueID: 4070586055
+    locked: 0
+  - name: Chevron
+    uniqueID: 3373773687
+    locked: 0
+  - name: LockedChevron
+    uniqueID: 1242834567
+    locked: 0
+  - name: Glyph
+    uniqueID: 2530585145
+    locked: 0
